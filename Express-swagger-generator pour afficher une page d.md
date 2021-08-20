@@ -65,7 +65,7 @@ Les éléments ci-dessous vont s'afficher dans les "bandeaux de routes" (en bleu
 - nom du groupe (ici Articles)
 - une description (facultatif)
 
-![extrait de l'affichage des routes}(_resources/eddbb133b247412992b7c627236a300b.png)
+![extrait de l'affichage des routes](_resources/eddbb133b247412992b7c627236a300b.png)
 
 `@summary` + une petite description : s'affichera à côté de la route
 
