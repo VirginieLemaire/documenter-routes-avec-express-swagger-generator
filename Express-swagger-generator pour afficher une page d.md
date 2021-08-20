@@ -21,7 +21,7 @@ Bien sûr il faudra peut-ête enlever le require d’express et l’écoute du p
 
 Beaucoup de ces propriétés de ce bout de code sont personnalisables.
 Par exemple l’extrait suivant servira d’en-tête de l’api de test :
-![en-tête](../_resources/94dc373ea44f45c0a8562b5b76efd854.png)
+![en-tête](_resources/94dc373ea44f45c0a8562b5b76efd854.png)
 
 ```js
 info: {
@@ -65,7 +65,7 @@ Les éléments ci-dessous vont s'afficher dans les "bandeaux de routes" (en bleu
 - nom du groupe (ici Articles)
 - une description (facultatif)
 
-![extrait de l'affichage des routes}(../_resources/eddbb133b247412992b7c627236a300b.png)
+![extrait de l'affichage des routes}(_resources/eddbb133b247412992b7c627236a300b.png)
 
 `@summary` + une petite description : s'affichera à côté de la route
 
