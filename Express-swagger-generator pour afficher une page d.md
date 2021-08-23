@@ -34,10 +34,10 @@ info: {
         },
 ```
 
-Il faut vérifier / modifier le chemin qui mène au fichier router :
+Il faut vérifier / modifier le chemin qui mène aux fichiers de route (`/**/*.js` signifie "tous les fichiers js avec la doc vont pouvoir être trouvés dans les sous-dossiers de `app/`") :
 
 ```js
-files: ['./app/router.js'] //Path to the API handle folder
+files: ['./app/**/*.js'] //Path to the API handle folder
 ```
 
 ## Commenter les routes
